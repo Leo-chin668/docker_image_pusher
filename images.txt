@@ -1,1 +1,1 @@
-imapsync/imapsync
+imapsync
