@@ -1,1 +1,1 @@
-imapsync
+aquasecurity/trivy-operator
