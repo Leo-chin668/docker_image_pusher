@@ -1,1 +1,1 @@
-ghcr.io/aquasecurity/trivy-operator:latest
+aquasecurity.github.io/trivy-operator
