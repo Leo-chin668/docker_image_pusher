@@ -1,1 +1,1 @@
-aquasec/trivy-operator
+hub.docker.com/r/aquasec/trivy-operator
