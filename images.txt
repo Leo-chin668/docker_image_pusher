@@ -1,1 +1,1 @@
-aquasec/trivy-operator
+aquasecurity/trivy-operator
