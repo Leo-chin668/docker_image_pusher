@@ -1,1 +1,1 @@
-trivy-operator
+aqua/trivy-operator
