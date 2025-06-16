@@ -1,1 +1,1 @@
-aquasecurity/trivy-operator
+Leo-chin668/trivy-operator
