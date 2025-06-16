@@ -1,1 +1,1 @@
-https://github.com/aquasecurity/trivy-operator
+github.com/aquasecurity/trivy-operator
